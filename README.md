@@ -1,5 +1,5 @@
 # reahidenotice
-Utility to hide Cockos REAPERs evaluation votice at the start. For naughty Windows users.
+AHK Script that hides REAPERs Evaluation Pop-up. For naughty Windows users. 
 
 ## DISCLAIMER
 **REAPER IS NOT FREE.**
